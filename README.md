@@ -16,63 +16,37 @@ Using ReactJS, Typescript, Javascript, etc.
 
 <article>
     <h3>🪄 Front-end</h3>
-    <ul style="padding:0; display:flex; list-style:none;">
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
-        </li>
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-        </li> 
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-        </li> 
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-        </li> 
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=white">
-        </li> 
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-        </li> 
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
-        </li> 
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/Apollo Client-6236FF?style=for-the-badge&logo=Apollo GraphQL&logoColor=white">
-        </li> 
-    </ul>
+    <div style="display:flex; align-items:center;">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> 
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=white"> 
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Apollo Client-6236FF?style=for-the-badge&logo=Apollo GraphQL&logoColor=white"> 
+    </div>
 </article>
 <br/>
 <article>
     <h3>🪄 Back-end</h3>
-    <ul style="padding:0; display:flex; list-style:none;">
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
-        </li>
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=JavaScript&logoColor=white">
-        </li> 
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-        </li> 
-    </ul>
+    <div style="display:flex; align-items:center;">
+        <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=JavaScript&logoColor=white"> 
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> 
+    </div>
 </article>
 <br/>
 <article>
     <h3>🪄 Infra</h3>
-    <ul style="padding:0; display:flex; list-style:none;">
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
-        </li>
-    </ul>
+    <div style="display:flex; align-items:center;">
+        <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
+    </div>
 </article>
 <br/>
 <article>
     <h3>🪄 CI/CD</h3>
-    <ul style="padding:0; display:flex; list-style:none;">
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/Github Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white"> 
-        </li>
-    </ul>
+    <div style="display:flex; align-items:center;">
+        <img src="https://img.shields.io/badge/Github Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white"> 
+    </div>
 </article>
