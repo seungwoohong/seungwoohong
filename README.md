@@ -16,7 +16,7 @@ Using ReactJS, Typescript, Javascript, etc.
 
 <article>
     <h3>🪄 Front-end</h3>
-    <ul style="padding:0; display:flex;">
+    <ul style="padding:0; display:flex; list-style-type:none;">
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
         </li>
@@ -46,7 +46,7 @@ Using ReactJS, Typescript, Javascript, etc.
 <br/>
 <article>
     <h3>🪄 Back-end</h3>
-    <ul style="padding:0; display:flex;">
+    <ul style="padding:0; display:flex; list-style-type:none;">
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
         </li>
@@ -61,7 +61,7 @@ Using ReactJS, Typescript, Javascript, etc.
 <br/>
 <article>
     <h3>🪄 Infra</h3>
-    <ul style="padding:0; display:flex;">
+    <ul style="padding:0; display:flex; list-style-type:none;">
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
         </li>
@@ -70,7 +70,7 @@ Using ReactJS, Typescript, Javascript, etc.
 <br/>
 <article>
     <h3>🪄 CI/CD</h3>
-    <ul style="padding:0; display:flex;">
+    <ul style="padding:0; display:flex; list-style-type:none;">
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/Github Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white"> 
         </li>
