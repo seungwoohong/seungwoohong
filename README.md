@@ -15,7 +15,7 @@ Using ReactJS, Typescript, Javascript, etc.
 ## 🔨 Skillset
 
 <article>
-    <h3>🪄 Front-end</h3>
+    <h3 style="color:#000000;">Front-end</h3>
     <div style="display:flex; align-items:center;">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
@@ -29,7 +29,7 @@ Using ReactJS, Typescript, Javascript, etc.
 </article>
 <br/>
 <article>
-    <h3>🪄 Back-end</h3>
+    <h3 style="color:#000000;">Back-end</h3>
     <div style="display:flex; align-items:center;">
         <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=JavaScript&logoColor=white"> 
@@ -38,14 +38,14 @@ Using ReactJS, Typescript, Javascript, etc.
 </article>
 <br/>
 <article>
-    <h3>🪄 Infra</h3>
+    <h3 style="color:#000000;">Infra</h3>
     <div style="display:flex; align-items:center;">
         <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
     </div>
 </article>
 <br/>
 <article>
-    <h3>🪄 CI/CD</h3>
+    <h3 style="color:#000000;">CI/CD</h3>
     <div style="display:flex; align-items:center;">
         <img src="https://img.shields.io/badge/Github Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white"> 
     </div>
