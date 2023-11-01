@@ -14,8 +14,6 @@ Using ReactJS, Typescript, Javascript, etc.
 
 ## 🔨 Skillset
 
----
-
 <article>
     <h3>🪄 Front-end</h3>
     <ul style="padding:0; display:flex;">
