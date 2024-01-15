@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9CF6FB,100:4A5FC1&height=300&section=header&text=Welcome%20to%20Honground👋&fontSize=56&fontColor=ffffff)
-
 I'm a Web **Front-end Developer**👨🏻‍💻
 <br/>
 Using ReactJS, Typescript, Javascript, etc.
@@ -27,7 +25,6 @@ Using ReactJS, Typescript, Javascript, etc.
         <img src="https://img.shields.io/badge/Apollo Client-6236FF?style=for-the-badge&logo=Apollo GraphQL&logoColor=white"> 
     </div>
 </article>
-<br/>
 <article>
     <h3 style="color:#000000;">Back-end</h3>
     <div style="display:flex; align-items:center;">
@@ -36,14 +33,12 @@ Using ReactJS, Typescript, Javascript, etc.
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> 
     </div>
 </article>
-<br/>
 <article>
     <h3 style="color:#000000;">Infra</h3>
     <div style="display:flex; align-items:center;">
         <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
     </div>
 </article>
-<br/>
 <article>
     <h3 style="color:#000000;">CI/CD</h3>
     <div style="display:flex; align-items:center;">
