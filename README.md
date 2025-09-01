@@ -5,7 +5,7 @@ I'm a Web **Front-end Developer**👨🏻‍💻
 Using ReactJS, Typescript, Javascript, etc.
 
 - 🔭 I’m currently working on [BOLD9](https://github.com/bold-9).
-- 🌱 I’m currently learning **WebGL** and **Flutter**
+- 🌱 I’m currently learning AI
 - 💬 Ask me about **Front-end**
 - 📫 How to reach me: alwls601@naver.com
 - 😄 Pronouns: He/His
