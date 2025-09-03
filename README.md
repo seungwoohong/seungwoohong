@@ -24,7 +24,7 @@ Using ReactJS, Typescript, Javascript, etc.
         <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=white"> 
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Apollo Client-6236FF?style=for-the-badge&logo=Apollo GraphQL&logoColor=white"> 
+        <img src="https://img.shields.io/badge/apollo graphql-6236FF?style=for-the-badge&logo=apollographql&logoColor=white"> 
     </div>
 </article>
 <article>
