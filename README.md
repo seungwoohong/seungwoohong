@@ -2,11 +2,11 @@
 
 I'm a Web **Front-end Developer**👨🏻‍💻
 <br/>
-Using ReactJS, Typescript, Javascript, etc.
+Using ReactJS, React Native, NextJS, Typescript, Javascript, etc.
 
 - 🌱 I’m currently learning AI
 - 💬 Ask me about **Front-end**
-- 📫 How to reach me: alwls601@naver.com
+- 📫 How to reach me: seungwoo921226@gmial.com
 - 😄 Pronouns: He/His
 
 <br/>
