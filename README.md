@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a **Product-Minded Software Engineer (Frontend)**👨🏻‍💻 with 10 years of experience.
+I'm a **Product-Minded Software Engineer (Frontend)** 👨🏻‍💻 with 10 years of experience.
 <br/>
 Using ReactJS, React Native, NextJS, Typescript, Javascript, NodeJS, GraphQL etc.
 
