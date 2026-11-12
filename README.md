@@ -2,7 +2,7 @@
 
 I'm a Web **Front-end Developer**👨🏻‍💻
 <br/>
-Using ReactJS, React Native, NextJS, Typescript, Javascript, etc.
+Using ReactJS, React Native, NextJS, Typescript, Javascript, NodeJS, GraphQL etc.
 
 - 🌱 I’m currently learning AI
 - 💬 Ask me about **Front-end**
